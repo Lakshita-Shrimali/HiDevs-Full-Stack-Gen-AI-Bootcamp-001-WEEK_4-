@@ -1,8 +1,8 @@
-Week 4 - Data Science
+# Week 4 - Data Science
 
 Project 1: Learn Data Science using Wine Reviews Analysis
 
-# Project Tasks:
+Project Tasks:
 
 •	Setup data science environment
 
@@ -12,10 +12,11 @@ Project 1: Learn Data Science using Wine Reviews Analysis
 
 •	Data visualization with Matplotlib
 
+
 Project 2: Learn Data Science using Housing Price Prediction
 
 
-# Project Tasks:
+Project Tasks:
 
 •	Data manipulation or preprocessing with Pandas
 
